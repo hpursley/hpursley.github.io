@@ -1,0 +1,160 @@
+.img-cap {
+	opacity: 0.5;
+	text-transform: uppercase;
+	font-size: 10px;
+}
+.career-magazine.bg-light {
+    background-color: #F7F6F5;
+}
+.career-magazine .news-single a {
+    color: #00ADB9;
+}
+.career-magazine h1, .career-magazine h2, .career-magazine h3, .career-magazine h4, .career-magazine h5, .career-magazine h6 {
+    color: #121820;
+}
+.career-magazine h1 a, .career-magazine h2 a, .career-magazine h3 a, .career-magazine h4 a, .career-magazine h5 a, .career-magazine h6 a {
+    color: #121820;
+}
+.career-magazine aside.yellowshare {
+    background-color: #00adb9;
+    /* border: 1px solid #D9D2CB; */
+    border-radius: 2px;
+    width: 100%;
+    position: relative;
+    left: auto;
+    /* bottom: 0; */
+    padding: 15px;
+    color: #FFF;
+    /* text-align: center; */
+    margin: 0 15px;
+}
+.career-magazine aside.yellowshare h4 {
+    font-size: 16px;
+    color: #FFF;
+}
+.career-magazine aside.yellowshare input[type="radio"], input[type="checkbox"] {
+    margin-right: 4px;
+}
+.career-magazine #mce-EMAIL {
+    margin-bottom: 15px;
+	border-color: #FFF;
+}
+.career-magazine .wp-caption {
+    float: right;
+    text-align: right;
+}
+.career-magazine .wp-caption img {
+    margin-bottom: 15px;
+}
+.news-single .post-categories {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+.news-single .post-categories a {
+	background: #00ADB9;
+    color: #FFF;
+    padding: 6px 10px;
+	border-radius: 2px;
+	font-size: 16px;
+}
+.news-single .full-width {
+    width: 100% !important;
+}
+.widget-share-post {
+    opacity: 0.7;
+}
+.widget-share-post.list-inline>li {
+    display: inline-block;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.widget-share-post.list-unstyled.list-inline li {
+    margin-right: 0px;
+}
+.widget-share-post li {
+    vertical-align: middle;
+}
+#main-text {
+	font-size: 16px;
+	line-height: 1.7em;
+	padding: 0 15px;
+}
+#main-text h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#main-text p {
+    margin-bottom: 1.5em;
+}
+#main-text blockquote {
+    /* border-right: 2px solid #D9D2CB; */
+    border-left: 2px solid #D9D2CB;
+    float: right;
+    width: 30em;
+    margin: 0 -10em 0 2em;
+    padding: 1em 2em;
+    font-size: 1.2em;
+    line-height: 1.5;
+    font-style: italic;
+    font-weight: 400;
+	color: #121820;
+}
+#main-text blockquote p:last-child {
+	margin-bottom: 0;
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.content-post {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    min-height: 175px;
+}
+.content-post .details {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 5px 35px 5px;
+    color: #000;
+    background: rgba(247, 246, 245, .8);
+}
+.content-post .details {
+    font-size: 14px;
+}
+.carousel .carousel-caption {
+    background: #FFF;
+    background: rgba(247, 246, 245, .8);
+    padding: 10px;
+    color: #000;
+    text-shadow: none;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+}
+.carousel-control.right,  .carousel-control.left {
+    background-image: none;
+}
+.career-magazine .btn-link {
+    color: #968254;
+}
+#facebook-comments {
+	margin: 0 15px;
+    width: 100%;
+}
+.footer .input-group {
+	display: table!important;
+}
+.footer .input-group-btn {
+	position: relative;
+	font-size: 0;
+	white-space: nowrap;
+	display: inline-grid;
+}
